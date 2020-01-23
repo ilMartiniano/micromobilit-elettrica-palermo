@@ -27,11 +27,8 @@ sections:
         label: Get Started
         url: /generic
     component: mission.html
-    content: |-
-      Aptent taciti sociosqu litora torquent et conubia sed etiam.  
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
-      turpis mauris, ultricies erat malesuada quis.
-    title: Amet ullamcorper
+    content: ''
+    title: Raduni
     type: mission
 menu:
   main:
