@@ -13,7 +13,7 @@ sections:
       - is_primary: false
         is_scrolly: true
         label: Unisciti a noi
-        url: '#unisciti a noi'
+        url: '#footer'
     component: intro.html
     content: >-
       **Unisciti alla community Palermitana della nuova Micromobilità
