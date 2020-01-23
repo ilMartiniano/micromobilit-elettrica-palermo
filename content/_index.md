@@ -11,7 +11,7 @@ sections:
         label: Qualè il nostro obiettivo
         url: /generic
       - is_primary: false
-        is_scrolly: false
+        is_scrolly: true
         label: Unisciti a noi
         url: '#unisciti a noi'
     component: intro.html
