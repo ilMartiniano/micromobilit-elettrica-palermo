@@ -7,7 +7,7 @@ sections:
         label: Chi siamo
         url: /chi-siamo
       - is_primary: false
-        is_scrolly: false
+        is_scrolly: true
         label: Qualè il nostro obiettivo
         url: /qualè-il-nostro-obiettivo/
       - is_primary: false
