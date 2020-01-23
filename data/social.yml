@@ -7,7 +7,7 @@ social_content: |-
 
   e su Telegram
 social_links:
-  - icon: fa-fb
+  - icon: fa-facebook
     link_url: 'https://www.facebook.com/groups/443990312994817'
     title: Facebook Gruppo
   - icon: fa-facebook
@@ -16,6 +16,6 @@ social_links:
   - icon: fa-instagram
     link_url: '#'
     title: Instagram
-  - icon: fa-snapchat-ghost
+  - icon: fa-telegram
     link_url: '#'
     title: Telegram
