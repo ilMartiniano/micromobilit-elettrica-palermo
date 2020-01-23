@@ -1,9 +1,12 @@
 actions:
-  - label: Get Started
-    url: /generic
+  - is_primary: true
     is_scrolly: false
-    is_primary: true
-  - label: Log In
+    label: Chi Siamo
     url: /generic
+  - is_primary: false
     is_scrolly: false
-    is_primary: false
+    label: Log In
+    url: /generic
+  - is_primary: false
+    is_scrolly: true
+    label: Qualè il nostro obiettivo
