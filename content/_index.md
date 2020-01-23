@@ -7,10 +7,9 @@ sections:
         label: Get Started
         url: /generic
     component: intro.html
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+    content: >-
+      **Unisciti alla community Palermitana della nuova Micromobilità
+      Elettrica**
     img_path: /images/photo_2020-01-23_18-10-17.jpg
     title: Micromobilità Elettrica Palermo
     type: intro
