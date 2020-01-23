@@ -4,10 +4,6 @@ actions:
     label: Chi Siamo
     url: /generic
   - is_primary: false
-    is_scrolly: false
-    label: Log In
-    url: /generic
-  - is_primary: false
     is_scrolly: true
     label: Qualè il nostro obiettivo
     url: /generic
