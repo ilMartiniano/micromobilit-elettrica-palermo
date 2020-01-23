@@ -52,12 +52,8 @@ sections:
         url: /generic
     component: spotlight.html
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+      Unisciti alla più grande community Siciliana di Monopattini elettrici,
+      Monowheel, Segway, Hoverboar
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
