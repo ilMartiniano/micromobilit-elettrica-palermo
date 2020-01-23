@@ -20,14 +20,10 @@ sections:
         url: /generic
     component: features.html
     content: >-
-      <!--StartFragment-->
 
 
       **Unisciti alla community Palermitana della nuova Micromobilità
       Elettrica**
-
-
-      <!--EndFragment-->
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
