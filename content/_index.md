@@ -10,6 +10,10 @@ sections:
         is_scrolly: false
         label: Qualè il nostro obiettivo
         url: /generic
+      - is_primary: false
+        is_scrolly: false
+        label: Unisciti a noi
+        url: /generic
     component: intro.html
     content: >-
       **Unisciti alla community Palermitana della nuova Micromobilità
