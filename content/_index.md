@@ -9,7 +9,7 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: Qualè il nostro obiettivo
-        url: /obiettivo
+        url: /qual'è-il-nostro-obiettivo/
       - is_primary: false
         is_scrolly: true
         label: Unisciti a noi
