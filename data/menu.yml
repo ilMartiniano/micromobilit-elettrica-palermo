@@ -10,3 +10,4 @@ actions:
   - is_primary: false
     is_scrolly: true
     label: Qualè il nostro obiettivo
+    url: /obiettivo
