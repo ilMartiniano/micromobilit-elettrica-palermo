@@ -1,49 +1,56 @@
 ---
 title: Home
 sections:
-  - type: intro
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: Get Started
+        url: /generic
+    component: intro.html
     content: |-
       Lorem ipsum dolor sit magna consectetur  
       adipiscing elit. Duis dapibus rutrum facilisis.  
       Class aptent taciti sociosqu torquent.
-    actions:
-      - label: Get Started
-        url: /generic
+    img_path: /images/photo_2020-01-23_18-10-17.jpg
+    title: Micromobilità Elettrica Palermo
+    type: intro
+  - actions:
+      - is_primary: false
         is_scrolly: false
-        is_primary: false
-    title: Reflex
-    img_path: images/pic01.jpg
-    component: intro.html
-  - type: features
+        label: Details
+        url: /generic
+    component: features.html
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: Ipsum malesuada
+      <!--StartFragment-->
+
+
+      **Unisciti alla community Palermitana della nuova Micromobilità
+      Elettrica**
+
+
+      <!--EndFragment-->
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
     symbol_display:
-      - title: Lorem
-        icon: fa-code
-      - title: Ipsum
-        icon: fa-cog
-      - title: Dolor
-        icon: fa-diamond
-      - title: Feugiat
-        icon: fa-camera-retro
-      - title: Tempus
-        icon: fa-briefcase
-    component: features.html
-  - type: spotlight
+      - icon: fa-code
+        title: Lorem
+      - icon: fa-cog
+        title: Ipsum
+      - icon: fa-diamond
+        title: Dolor
+      - icon: fa-camera-retro
+        title: Feugiat
+      - icon: fa-briefcase
+        title: Tempus
+    title: Ipsum malesuada
+    type: features
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: Details
+        url: /generic
+    component: spotlight.html
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
       rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
@@ -51,31 +58,27 @@ sections:
       In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
       sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
       Etiam tristique eu nibh.
-    actions:
-      - label: Details
-        url: /generic
-        is_scrolly: false
-        is_primary: false
-    title: Duis torquent
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
-    component: spotlight.html
-  - type: mission
+    title: Duis torquent
+    type: spotlight
+  - actions:
+      - is_primary: false
+        is_scrolly: false
+        label: Get Started
+        url: /generic
+    component: mission.html
     content: |-
       Aptent taciti sociosqu litora torquent et conubia sed etiam.  
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam  
       turpis mauris, ultricies erat malesuada quis.
-    actions:
-      - label: Get Started
-        url: /generic
-        is_scrolly: false
-        is_primary: false
     title: Amet ullamcorper
-    component: mission.html
+    type: mission
 menu:
   main:
     name: Home
     weight: 1
 layout: home
 ---
+
