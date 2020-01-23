@@ -10,12 +10,9 @@ social_links:
   - icon: fa-facebook
     link_url: 'https://www.facebook.com/groups/443990312994817'
     title: Facebook Gruppo
-  - icon: fa-facebook
-    link_url: '#'
-    title: Facebook Pagina
   - icon: fa-instagram
-    link_url: '#'
+    link_url: 'https://instagram.com/micromobilita_palermo?'
     title: Instagram
   - icon: fa-telegram
-    link_url: '#'
+    link_url: 'https://t.me/micromobilitaelettricapalermo'
     title: Telegram
