@@ -4,7 +4,11 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Get Started
+        label: Chi siamo
+        url: /generic
+      - is_primary: false
+        is_scrolly: false
+        label: Qualè il nostro obiettivo
         url: /generic
     component: intro.html
     content: >-
