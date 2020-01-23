@@ -1,6 +1,8 @@
 enable_contact_section: true
-copyright: '&copy; Reflex. All rights reserved. Lorem ipsum dolor sit amet nullam.'
+copyright: >-
+  &copy; Micromobilità Elettrica Palermo. Tutti i diritti sono riservati, i
+  loghi dei social sono dei rispettivi proprietari.
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made with Stackbit (by Martino)
     url: 'https://www.stackbit.com'
-    new_window: true
