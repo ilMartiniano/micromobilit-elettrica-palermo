@@ -5,7 +5,7 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: Chi siamo
-        url: /generic
+        url: /chi-siamo
       - is_primary: false
         is_scrolly: false
         label: Qualè il nostro obiettivo
