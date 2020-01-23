@@ -24,47 +24,6 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Details
-        url: /generic
-    component: features.html
-    content: >-
-
-
-      **Unisciti alla community Palermitana della nuova Micromobilità
-      Elettrica**
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
-    symbol_display:
-      - icon: fa-code
-        title: Lorem
-      - icon: fa-cog
-        title: Ipsum
-      - icon: fa-diamond
-        title: Dolor
-      - icon: fa-camera-retro
-        title: Feugiat
-      - icon: fa-briefcase
-        title: Tempus
-    title: Ipsum malesuada
-    type: features
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Details
-        url: /generic
-    component: spotlight.html
-    content: >-
-      Unisciti alla più grande community Siciliana di Monopattini elettrici,
-      Monowheel, Segway, Hoverboar
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
-    title: Duis torquent
-    type: spotlight
-  - actions:
-      - is_primary: false
-        is_scrolly: false
         label: Get Started
         url: /generic
     component: mission.html
