@@ -7,10 +7,10 @@ social_content: |-
 
   e su Telegram
 social_links:
-  - icon: fa-twitter
+  - icon: fa-fb
     link_url: '#'
     title: Facebook Gruppo
-  - icon: fa-github
+  - icon: fa-facebook
     link_url: '#'
     title: Facebook Pagina
   - icon: fa-instagram
